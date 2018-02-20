@@ -3,9 +3,9 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: kangqi's Note
-subtitle: relaxing hot bath 
-description: I hope my blog like hot bath, people will enjoy it
+title: Kangqi'Note
+subtitle: relaxing hot bath
+description: share idea and opinion
 author: kangqi Wong
 language: English
 timezone:
@@ -46,7 +46,7 @@ highlight:
 # Home page setting
 # path: Root path for your blogs index page. (default = '')
 # per_page: Posts displayed per page. (0 = disable pagination)
-# order_by: Posts order. (Order by date descending by default)
+#order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
   per_page: 10
@@ -70,8 +70,8 @@ per_page: 10
 pagination_dir: page
 
 # Extensions
-Plugins: 
-Themes: aloha
+## Plugins: 
+## Themes: aloha
 #theme: landscape
 theme: cactus-dark
 
